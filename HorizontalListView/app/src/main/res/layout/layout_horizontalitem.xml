@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/events_item_layout"
+    android:layout_width="200dp"
+    android:layout_height="200dp"
+    android:background="@drawable/item_bg"
+    android:layout_gravity="center_vertical"
+    android:layout_margin="1dp"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" >
+
+        <!-- android:background="@drawable/textview_title_bg" -->
+
+        <TextView
+            android:id="@+id/date_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="5dp"
+            android:text="2014-04-27" />
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/meeting_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="2dp"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="Q2 Board Meeting" />
+
+    <TextView
+        android:id="@+id/org_name_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="2dp"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textColor="@android:color/darker_gray" />
+
+
+
+</LinearLayout>

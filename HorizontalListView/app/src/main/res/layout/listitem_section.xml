@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.horizontallistviewwithsections.customviews.VerticalTextView
+        android:id="@+id/list_item_section_text"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="bottom|center"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/button_bg"
+        android:textColor="@android:color/white"
+        android:textSize="14sp" />
+
+
+
+</RelativeLayout>

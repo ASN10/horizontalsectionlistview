@@ -6,7 +6,7 @@ Listview that scrolls horizontally with sections
 
 This is basically an UI component which scrolls horizontally and has sections. This can be used for planner kind of UI.
 
-#How to use ?
+#Installation
 
 Import the library project and add to the project’s dependency and add Recycler View  in  gradle file
 

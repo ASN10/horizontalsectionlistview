@@ -22,5 +22,6 @@ Override the RecyclerView adapter methods
 
 Refer the sample project – HorizontalListView for binding the views in the adapter
 
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)]
 
 

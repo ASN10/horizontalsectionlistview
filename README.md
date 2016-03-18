@@ -22,6 +22,6 @@ Override the RecyclerView adapter methods
 
 Refer the sample project – HorizontalListView for binding the views in the adapter
 
-[![ScreenShot](https://github.com/ASN10/horizontalsectionlistview/blob/master/Demo_Video/image.gif)]
+![ScreenShot](https://github.com/ASN10/horizontalsectionlistview/blob/master/Demo_Video/image.gif)
 
 

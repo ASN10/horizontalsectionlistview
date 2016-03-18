@@ -22,6 +22,6 @@ Override the RecyclerView adapter methods
 
 Refer the sample project – HorizontalListView for binding the views in the adapter
 
-[![ScreenShot]()]
+[![ScreenShot](horizontalsectionlistview/Demo_Video/image.gif)]
 
 
